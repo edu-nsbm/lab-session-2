@@ -2,7 +2,10 @@
 
 
 def main() -> None:
-    print("Some")
+    operation: str = "sum"
+    total: str = "8"
+
+    print(operation + " is " + total)  # Using string concatenation
 
 
 if __name__ == "__main__":
