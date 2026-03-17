@@ -9,6 +9,8 @@ def main() -> None:
 if __name__ == "__main__":
     main()
 
-# We use comments in any programming language to explain the underline logic of
-# the functions, methods, classes.
-# It makes code more reliable and readable and easier to maintain.
+'''
+We use comments in any programming language to explain the underline logic of
+the functions, methods, classes.
+It makes code more reliable and readable and easier to maintain.
+'''
